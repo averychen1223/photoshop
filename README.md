@@ -1,9 +1,9 @@
-# Hangman Game
+# Photoshop
 
-Implement a classic hangman game using Python.
+Playing around with digital image processing using Python.
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/averychen1223/hangman-game/blob/main/hangman.jpeg"/><br/>
+  <img width="300" height="300" src="https://github.com/averychen1223/photoshop/blob/main/photoshop.gif"/><br/>
   <em>Hangman.</em>
 </p>
 
@@ -19,9 +19,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 .
-├── hangman.py                  # Main scripts for hangman game
-├── hangman.jpeg                # Pic
-├── hangman.gif                 # Result
+├── photoshop.py                  # Main scripts
+├── simpleImage.jpeg              # Image processing lib
+├── photoshop.gif                 # Result
 └── README.md
 ```
 
@@ -30,17 +30,8 @@ These instructions will get you a copy of the project up and running on your loc
 Directly run the main script.
 
 ```
-python3 hangman.py
+python3 photoshop.py /monster
 ```
-
-## Results
-
-<p align="center">
-  <img width="800" height="500" src="https://github.com/averychen1223/hangman-game/blob/main/hangman.gif"/><br/>
-</p>
-<p align="center">
-  <em>Hangman game simulation.</em>
-</p>
 
 ## Authors
 
