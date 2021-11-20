@@ -3,8 +3,8 @@
 Playing around with digital image processing using Python.
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/averychen1223/photoshop/blob/main/photoshop.gif"/><br/>
-  <em>Hangman.</em>
+  <img width="600" height="300" src="https://github.com/averychen1223/photoshop/blob/main/photoshop.gif"/><br/>
+  <em>People Removal.</em>
 </p>
 
 ## Getting Started
